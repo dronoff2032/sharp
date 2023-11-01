@@ -1,0 +1,14 @@
+C:\Users\xelond\source\repos\Tortiki\Tortiki\bin\Debug\net6.0\Tortiki.exe
+C:\Users\xelond\source\repos\Tortiki\Tortiki\bin\Debug\net6.0\Tortiki.deps.json
+C:\Users\xelond\source\repos\Tortiki\Tortiki\bin\Debug\net6.0\Tortiki.runtimeconfig.json
+C:\Users\xelond\source\repos\Tortiki\Tortiki\bin\Debug\net6.0\Tortiki.dll
+C:\Users\xelond\source\repos\Tortiki\Tortiki\bin\Debug\net6.0\Tortiki.pdb
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\Tortiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\Tortiki.AssemblyInfoInputs.cache
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\Tortiki.AssemblyInfo.cs
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\Tortiki.csproj.CoreCompileInputs.cache
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\Tortiki.dll
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\refint\Tortiki.dll
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\Tortiki.pdb
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\Tortiki.genruntimeconfig.cache
+C:\Users\xelond\source\repos\Tortiki\Tortiki\obj\Debug\net6.0\ref\Tortiki.dll
