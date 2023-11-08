@@ -1,0 +1,14 @@
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\bin\Debug\net6.0\Notebooks.exe
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\bin\Debug\net6.0\Notebooks.deps.json
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\bin\Debug\net6.0\Notebooks.runtimeconfig.json
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\bin\Debug\net6.0\Notebooks.dll
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\bin\Debug\net6.0\Notebooks.pdb
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\Notebooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\Notebooks.AssemblyInfoInputs.cache
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\Notebooks.AssemblyInfo.cs
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\Notebooks.csproj.CoreCompileInputs.cache
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\Notebooks.dll
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\refint\Notebooks.dll
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\Notebooks.pdb
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\Notebooks.genruntimeconfig.cache
+C:\Users\xelond\source\repos2\Notebooks\Notebooks\obj\Debug\net6.0\ref\Notebooks.dll
