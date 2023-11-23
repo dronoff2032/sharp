@@ -1,0 +1,17 @@
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\bin\Debug\net6.0\Scoropechatanie.exe
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\bin\Debug\net6.0\Scoropechatanie.deps.json
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\bin\Debug\net6.0\Scoropechatanie.runtimeconfig.json
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\bin\Debug\net6.0\Scoropechatanie.dll
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\bin\Debug\net6.0\Scoropechatanie.pdb
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.AssemblyInfoInputs.cache
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.AssemblyInfo.cs
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.csproj.CoreCompileInputs.cache
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.dll
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\refint\Scoropechatanie.dll
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.pdb
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.genruntimeconfig.cache
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\ref\Scoropechatanie.dll
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.csproj.AssemblyReference.cache
+C:\Users\xelond\source\repos2\Scoropechatanie\Scoropechatanie\obj\Debug\net6.0\Scoropechatanie.csproj.CopyComplete
