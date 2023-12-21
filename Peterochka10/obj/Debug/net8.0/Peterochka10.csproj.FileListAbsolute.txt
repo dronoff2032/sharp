@@ -1,0 +1,17 @@
+C:\Users\College\source\repos2\Peterochka10\bin\Debug\net8.0\Peterochka10.exe
+C:\Users\College\source\repos2\Peterochka10\bin\Debug\net8.0\Peterochka10.deps.json
+C:\Users\College\source\repos2\Peterochka10\bin\Debug\net8.0\Peterochka10.runtimeconfig.json
+C:\Users\College\source\repos2\Peterochka10\bin\Debug\net8.0\Peterochka10.dll
+C:\Users\College\source\repos2\Peterochka10\bin\Debug\net8.0\Peterochka10.pdb
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.AssemblyInfoInputs.cache
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.AssemblyInfo.cs
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.csproj.CoreCompileInputs.cache
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.dll
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\refint\Peterochka10.dll
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.pdb
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.genruntimeconfig.cache
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\ref\Peterochka10.dll
+C:\Users\College\source\repos2\Peterochka10\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.csproj.AssemblyReference.cache
+C:\Users\College\source\repos2\Peterochka10\obj\Debug\net8.0\Peterochka10.csproj.CopyComplete

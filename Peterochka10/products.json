@@ -1,0 +1,8 @@
+[
+  {
+    "Id": 2,
+    "Name": "product",
+    "priceForEach": 123,
+    "countInStorage": 20
+  }
+]

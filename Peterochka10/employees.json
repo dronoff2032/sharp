@@ -1,0 +1,13 @@
+[
+  {
+    "Id": 0,
+    "SecondName": "Иванов",
+    "Name": "Иван",
+    "Surname": "Иванович",
+    "BirthDate": "21.12.2000",
+    "Passport": "2342 230482",
+    "Role": 2,
+    "Salary": 200000,
+    "UserId": 1
+  }
+]
